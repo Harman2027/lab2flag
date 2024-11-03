@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab2FlagApp</string>
+    <string name="helloString">Benjore</string>
+    <string name="spin_message">Tourner</string>
+</resources>
